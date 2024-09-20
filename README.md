@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/cat-work-typing-hardworking-funny-animals-gif-1996153366183108152"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -37,12 +33,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Calebe022/Calebe022/output/snake.svg" alt="Snake animation" />
 
 ###
 
