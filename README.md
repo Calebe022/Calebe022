@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, uma área que combina habilidades técnicas com pensamento analítico para criar soluções inovadoras em da informação. Estou estudando para me tornar um profissional em Dev Front-End, sou uma pessoa apaixonada por programação e para isso já adquiri conhecimentos em HTML5, CSS3, JavaScript, React, TypeScript e MySQL. Estou disposto a enfrentar desafios nessa área e divulgar mais os meus conhecimentos.</p>
+<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, uma área que me permite aliar habilidades técnicas ao pensamento analítico para desenvolver soluções criativas e eficientes em tecnologia da informação. Com grande interesse pela programação, tenho me dedicado a adquirir e aprimorar conhecimentos nas principais tecnologias do desenvolvimento front-end, como HTML5, CSS3, JavaScript, React e TypeScript, além de compreender o back-end com MySQL. Minha paixão por programação me motiva a buscar constante aprendizado, e estou sempre pronto para encarar desafios que possam expandir minhas habilidades e contribuir para a criação de experiências digitais inovadoras. Acredito no poder transformador da tecnologia e no impacto positivo que ela pode trazer às pessoas e empresas. Estou em busca de oportunidades que me permitam crescer como desenvolvedor, trabalhar em projetos que envolvam desenvolvimento web e colaborar com equipes dinâmicas e criativas. Meu objetivo é me tornar um profissional completo em front-end, combinando minhas habilidades técnicas com a capacidade de resolver problemas de forma eficiente.</p>
 
 ###
 
