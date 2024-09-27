@@ -1,4 +1,4 @@
-<h2 align="center">Oi 👋 EU SOU O CALEBE ANDRÉ!</h2>
+<h2 align="center">Oi 👋 MEU NOME É CALEBE ANDRÉ!</h2>
 
 ###
 
@@ -60,6 +60,12 @@
   <img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=for-the-badge" height="30" alt="opera logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="file:///C:/Users/55889/Downloads/DALL%C2%B7E%202024-09-27%2008.21.11%20-%20A%20cute%20programmer%20cat%20wearing%20glasses,%20sitting%20at%20a%20desk%20in%20front%20of%20a%20computer%20with%20code%20on%20the%20screen.%20The%20cat%20is%20focused%20and%20typing%20on%20the%20keyboard.webp"  />
 </div>
 
 ###
