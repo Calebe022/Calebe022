@@ -63,7 +63,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Calebe022/Calebe022/output/snake.svg" alt="Snake animation" />
-
-###
