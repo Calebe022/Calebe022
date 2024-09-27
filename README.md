@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde consigo unir habilidades técnicas ao pensamento analítico. Meu foco é no desenvolvimento front-end, com experiência em HTML5, CSS3, JavaScript, React e TypeScript. Também exploro Node.js e Django para entender melhor a integração com o back-end. Utilizo Git e GitHub para versionamento de código e colaboração em projetos. Estou sempre em busca de aprendizado constante e pronto para enfrentar novos desafios. Busco oportunidades que me permitam crescer como desenvolvedor front-end e colaborar em equipes criativas, criando experiências digitais inovadoras.</p>
+<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, uma área que me permite aliar habilidades técnicas ao pensamento analítico para desenvolver soluções criativas e eficientes em tecnologia da informação. Com grande interesse pela programação, tenho me dedicado a adquirir e aprimorar conhecimentos nas principais tecnologias do desenvolvimento front-end, como HTML5, CSS3, JavaScript, React e TypeScript, além de compreender o back-end com MySQL. Minha paixão por programação me motiva a buscar constante aprendizado, e estou sempre pronto para encarar desafios que possam expandir minhas habilidades e contribuir para a criação de experiências digitais inovadoras. Acredito no poder transformador da tecnologia e no impacto positivo que ela pode trazer às pessoas e empresas. Estou em busca de oportunidades que me permitam crescer como desenvolvedor, trabalhar em projetos que envolvam desenvolvimento web e colaborar com equipes dinâmicas e criativas. Meu objetivo é me tornar um profissional completo em front-end, combinando minhas habilidades técnicas com a capacidade de resolver problemas de forma eficiente.</p>
 
 ###
 
@@ -47,11 +47,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge" height="30" alt="gimp logo"  />
   <img width="12" />
