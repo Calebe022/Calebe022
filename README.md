@@ -64,8 +64,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="file:///C:/Users/55889/Downloads/DALL%C2%B7E%202024-09-27%2008.21.11%20-%20A%20cute%20programmer%20cat%20wearing%20glasses,%20sitting%20at%20a%20desk%20in%20front%20of%20a%20computer%20with%20code%20on%20the%20screen.%20The%20cat%20is%20focused%20and%20typing%20on%20the%20keyboard.webp"  />
-</div>
+<img src="https://raw.githubusercontent.com/Calebe022/Calebe022/output/snake.svg" alt="Snake animation" />
 
 ###
