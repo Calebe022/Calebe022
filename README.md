@@ -1,4 +1,4 @@
-<h2 align="center">Oi 👋 MEU NOME É CALEBE ANDRÉ!</h2>
+<h2 align="center">Oi 👋 EU SOU O CALEBE ANDRÉ!</h2>
 
 ###
 
@@ -60,6 +60,26 @@
   <img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=for-the-badge" height="30" alt="opera logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="center">Linguagens de Programação secundárias</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 </div>
 
 ###
