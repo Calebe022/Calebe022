@@ -32,10 +32,6 @@
 
 ###
 
-<img align="right" height="150" src="file:///C:/Users/55889/Downloads/DALL%C2%B7E%202024-09-27%2008.21.11%20-%20A%20cute%20programmer%20cat%20wearing%20glasses,%20sitting%20at%20a%20desk%20in%20front%20of%20a%20computer%20with%20code%20on%20the%20screen.%20The%20cat%20is%20focused%20and%20typing%20on%20the%20keyboard.webp"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="12" />
