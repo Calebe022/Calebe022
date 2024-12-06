@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img height="35" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Calebe022&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Calebe022&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Calebe022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false" height="150" alt="languages graph"  />
@@ -10,11 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
-
-###
-
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
@@ -38,22 +40,20 @@
 
 ###
 
-<div align="right">
-  <a href="https://www.facebook.com/profile.php?id=100081291887286&locale=pt_BR" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/calebe_am/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
 
 ###
 
-<div align="center">
-  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+<div align="left">
+  <a href="https://www.facebook.com/profile.php?id=100081291887286&locale=pt_BR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/calebe_am/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
