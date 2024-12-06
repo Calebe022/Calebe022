@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋 EU SOU O CALEBE ANDRÉ!</h2>
+<h2 align="center">Oi 👋 EU SOU O CALEBE ANDRÉ!</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
@@ -38,7 +38,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.facebook.com/profile.php?id=100081291887286&locale=pt_BR" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
