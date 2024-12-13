@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/oN0W8UM.gif" alt="Animação Vermelha" width="100%" height="150" />
-</div>
-
 <h1 align="center">
   <span style="color: #FF5733;">👨‍💻 Calebe André</span>
 </h1>
