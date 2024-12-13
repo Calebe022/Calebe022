@@ -47,14 +47,14 @@ Olá! Sou Calebe André, um desenvolvedor em constante evolução, buscando semp
 <h2 align="center" style="color: #8e44ad;">🌐 Redes Sociais</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Calebe022" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+   <a href="https://www.facebook.com/profile.php?id=100081291887286&locale=pt_BR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/calebe_am/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
 
