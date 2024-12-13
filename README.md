@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.imgur.com/oN0W8UM.gif" alt="Animação Vermelha" width="100%" height="150" />
+</div>
+
 <h1 align="center">
   <span style="color: #FF5733;">👨‍💻 Calebe André</span>
 </h1>
@@ -62,7 +66,6 @@ Olá! Sou Calebe André, um desenvolvedor em constante evolução, buscando semp
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" alt="Coding Animation" />
