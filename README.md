@@ -15,7 +15,6 @@ Desenvolvedor apaixonado por tecnologia, programação e aprendizado contínuo. 
 
 ## 💼 Habilidades Técnicas
 
-### 🛠️ Tecnologias e Ferramentas
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="CSS3" />
@@ -42,8 +41,8 @@ Desenvolvedor apaixonado por tecnologia, programação e aprendizado contínuo. 
   <a href="https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Calebe022" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.facebook.com/profile.php?id=100081291887286&locale=pt_BR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/calebe_am/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
