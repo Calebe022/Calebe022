@@ -60,7 +60,6 @@ Olá! Sou Calebe André, um desenvolvedor em constante evolução, buscando semp
 
 ---
 
-<h2 align="center" style="color: #e74c3c;">✨ Animações e Detalhes Visuais</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" alt="Coding Animation" />
