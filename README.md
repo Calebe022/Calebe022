@@ -23,7 +23,7 @@ Olá! Sou Calebe André, um desenvolvedor em constante evolução, buscando semp
 
 <h2 align="center" style="color: #29a19c;">🛠️ Tecnologias e Ferramentas</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
@@ -40,6 +40,8 @@ Olá! Sou Calebe André, um desenvolvedor em constante evolução, buscando semp
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
+
+###
 
 ###
 
