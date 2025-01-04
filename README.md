@@ -66,6 +66,13 @@ Olá! Sou Calebe André, um desenvolvedor em constante evolução, buscando semp
    <a href="https://www.facebook.com/profile.php?id=100081291887286&locale=pt_BR" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="Facebook" />
   </a>
+  <div align="left">
+  <a href="https://api.whatsapp.com/send?phone=558882263033&text=Slv%20a%C3%AD%20Calebe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
   <a href="https://www.instagram.com/calebe_am/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" />
   </a>
