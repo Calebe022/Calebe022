@@ -62,33 +62,22 @@ Olá! Sou Calebe André, um desenvolvedor em constante evolução, buscando semp
 
 <h2 align="center" style="color: #8e44ad;">🌐 Redes Sociais</h2>
 
-<p align="center">
-   <a href="https://www.facebook.com/profile.php?id=100081291887286&locale=pt_BR" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="Facebook" />
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100081291887286&locale=pt_BR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
-  <div align="left">
-</div>
-
----
-
-###
+  <a href="https://api.whatsapp.com/send?phone=558882263033&text=Slv%20a%C3%AD%20Calebe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
   <a href="https://www.instagram.com/calebe_am/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-</p>
+</div>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" alt="Coding Animation" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Calebe022/count.svg" alt="Contador de visitas" />
-</p>
+###
 
 ---
 
