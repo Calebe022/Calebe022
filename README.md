@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">🛠️ Tecnologias e Ferramentas</p>
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 ###
 
