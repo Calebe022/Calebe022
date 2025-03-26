@@ -1,16 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Calebe+André+Mesquita;I'm+19+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
----
-
-<h2 align="center">🧑‍💻 Sobre Mim</h2>
-
-###  
-
-<p align="center">🔹 Desenvolvedor Full Stack com paixão por tecnologia e inovação.<br>🔹 Sempre em busca de soluções eficientes e escaláveis.<br>🔹 Aprendendo e evoluindo a cada novo desafio! 🚀</p>
-
-###  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Calebe+André+Mesquita;I'm+19+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 ---
 
