@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Calebe+André+Mesquita;I'm+20+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
@@ -53,6 +53,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1E90FF?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-1E90FF?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-1E90FF?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-1E90FF?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-1E90FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-1E90FF?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)&nbsp;
 
@@ -75,4 +76,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
