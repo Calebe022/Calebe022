@@ -60,14 +60,9 @@
 
 ---
 
-<h2 align="center">👥 Contador de Visitantes</h2>
 
 ###  
 
-<div align="center">
-  <br><p align="center"><b>Visitantes no meu perfil:</b></p>
-  <img src="https://profile-counter.glitch.me/Calebe022/count.svg?" />
-</div>
 
 ---
 
