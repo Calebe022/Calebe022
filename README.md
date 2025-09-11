@@ -49,7 +49,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1E90FF?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-1E90FF?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-1E90FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
-![Go](https://img.shields.io/badge/-Go-1E90FF?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-1E90FF?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### 🛠️ Ferramentas e Frameworks  
