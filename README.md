@@ -44,20 +44,38 @@
 ## 🚀 Habilidades  
 
 ### 🔹 Principais Tecnologias  
-![HTML](https://img.shields.io/badge/-HTML-1E90FF?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-css-1E90FF?style=for-the-badge&logo=CSS&logoColor=white&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-1E90FF?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-react-1E90FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/-typescript-1E90FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-![Tailwindcss](https://img.shields.io/badge/-tailwindcss-1E90FF?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117)
-![Python](https://img.shields.io/badge/-Python-1E90FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
-![Golang](https://img.shields.io/badge/-golang-1E90FF?style=for-the-badge&logo=goland&logoColor=white&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-1E90FF?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+</div>
+
+###
 
 ### 🛠️ Ferramentas e Frameworks  
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-1E90FF?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+</div>
+
+###
 
 ---
 
