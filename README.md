@@ -6,21 +6,17 @@
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Calebe022&show_icons=true&count_private=true&hide_border=true&title_color=0080B4&icon_color=00BFFF&text_color=FFFFFF&bg_color=1E1E2E" alt="Calebe André Mesquita GitHub Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe022&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=1E1E2E" alt="Top Languages"/>
-</div>
-
----
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Calebe022&bg_color=1E1E2E&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=Calebe022&theme=onestar&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="160" alt="Trophy Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Calebe022&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Calebe022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Calebe022&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-</div>
+
+###
+
+###
+
+###
 
 
 ---
