@@ -8,25 +8,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
 Sou um Desenvolvedor Full Stack apaixonado por construir aplicações eficientes, limpas e escaláveis. Atuo em toda a stack — desde a criação de interfaces responsivas com HTML, CSS e JavaScript até o desenvolvimento de APIs robustas com Java e Spring Boot.
 
+- 🔭 Atualmente aprofundando meus conhecimentos em **Spring Boot** e **APIs RESTful**
 - 🌱 Sempre explorando novas tecnologias e boas práticas
 - 💡 Gosto de resolver problemas reais através do código
-- 📫 Me encontre no [Instagram](https://www.instagram.com/calebe_am/)
+- 📫 Me encontre no [Instagram](https://www.instagram.com/calebe_am/) ou [LinkedIn](https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Calebe022&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe022&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Calebe022&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Calebe022&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Calebe022&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&area_color=00bfbf&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Calebe022&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR" height="160" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Calebe022&radius=16&theme=tokyo-night&area=true&hide_border=true" height="280" alt="activity-graph" />
 </div>
 
 ---
@@ -63,15 +68,13 @@ Sou um Desenvolvedor Full Stack apaixonado por construir aplicações eficientes
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://www.instagram.com/calebe_am/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<a href="https://www.instagram.com/calebe_am/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
