@@ -12,7 +12,6 @@
 
 Sou um Desenvolvedor Full Stack apaixonado por construir aplicações eficientes, limpas e escaláveis. Atuo em toda a stack — desde a criação de interfaces responsivas com HTML, CSS e JavaScript até o desenvolvimento de APIs robustas com Java e Spring Boot.
 
-- 🔭 Atualmente aprofundando meus conhecimentos em **Spring Boot** e **APIs RESTful**
 - 🌱 Sempre explorando novas tecnologias e boas práticas
 - 💡 Gosto de resolver problemas reais através do código
 - 📫 Me encontre no [Instagram](https://www.instagram.com/calebe_am/) ou [LinkedIn](https://www.linkedin.com/in/calebe-andr%C3%A9-385b36303/)
